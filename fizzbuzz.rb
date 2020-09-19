@@ -6,6 +6,6 @@ def fizzbuzz(x)
     elsif x % 3 == 0
     puts "Fizz"
   else
-    puts "int"
+    puts "x"
   end
 end
