@@ -1,4 +1,5 @@
-def fizzbuzz(x)
-  if x % 
-  
+def fizzbuzz(int)
+  if x % 3 == 0
+    "Fizz"
+  end
 end
